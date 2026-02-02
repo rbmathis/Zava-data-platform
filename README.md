@@ -1,2 +1,5 @@
 # Zava-data-platform
-[FlowLens Demo] Data lakehouse and ETL pipelines — Team: Data Platform, Group: ZavaRetail
+
+Data lakehouse and ETL pipelines
+
+Update 1 by James Chen
