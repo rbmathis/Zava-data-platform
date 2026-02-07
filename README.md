@@ -2,4 +2,4 @@
 
 Data lakehouse and ETL pipelines
 
-Update 5 by Marcus Williams
+Update 6 by Yuki Tanaka
