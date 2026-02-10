@@ -2,4 +2,4 @@
 
 Data lakehouse and ETL pipelines
 
-Update 8 by David Kim
+Update 9 by Isabella Santos
